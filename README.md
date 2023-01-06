@@ -1,9 +1,5 @@
  ### 🍓 Blockchain | NFT Marketplace | ICO Platform | DAPP 
  
-  ### 📫 How to reach me: - - -     
-    🌱 Discord:  etherdev365#1899
-    🌱 Telegram: @etherdev365
-    🌱 Skype:    etherdev365@outlook.com    
     
     😄 Blockchain developer with 3+ years of experience in solidity, rust, web3.js, ether.js.
       - Experienced in NFT marketplace, Ethereum, Polygon, Cardano networks and I am very familiar 
