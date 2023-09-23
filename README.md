@@ -13,10 +13,6 @@
       - Swift, Xcode, Java, Android Studio, Flutter, React Native, Xamarin
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=EtherDev365.EtherDev365" />
-<img align="right" src="https://img.shields.io/github/followers/SoftDev365?label=Follow&style=social" />
-<h1 align="center"></h1>
-<h1 align="center"></h1>
-<img height="150" />
 </br>
 
 ### Languages and Tools:
